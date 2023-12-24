@@ -17,15 +17,8 @@ Danny has provided you with a sample of his overall customer data due to privacy
 
 ### Entity Relationship Diagram
 
-![image](https://github.com/Irene-arch/Customer-Behaviour-Analysis-MSSQL-Server/assets/56026296/5e0c9ea2-cfcf-400e-b164-6955b46f0e9f)
+![RDB](https://github.com/Aryang02/Dannys-Dinner/assets/140090638/2833a0f3-281e-413c-9549-039a733253ab)
 
-### Skills Applied
-
-- Window Functions
-- CTEs
-- Aggregations
-- JOINs
-- Write scripts to generate basic reports that can be run every period
 
 ### Questions Explored
 
